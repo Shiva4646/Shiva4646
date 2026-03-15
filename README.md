@@ -15,7 +15,7 @@
 - [cite_start]🎓 **3rd Year EEE Student** (6th Semester) with an **8.5+ CGPA**[cite: 47].
 - 💻 **Software Engineering Focus:** Currently specializing in Full-Stack development (MERN/Next.js) and DSA in C++.
 - ⚡ **Hardware Enthusiast:** Developing **VibroCharge**—an energy harvesting system for smart mobility.
-- 🎯 **Targeting:** JPMC Code for Good 2026. I love building tech that solves real-world social problems.
+- 🎯 **Targeting:** I love building tech that solves real-world social problems.
 
 ---
 
